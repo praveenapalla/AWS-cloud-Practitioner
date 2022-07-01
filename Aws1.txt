@@ -1,0 +1,23 @@
+Cloud Computing: On-demand delivery of IT resources over internet with pay as you go pricing.
+
+Deployment models for cloud computing:-
+
+1.Cloud Based Deployment-  Anyone can use cloud services. Data centre locates on the internet where the cloud service providers are available. Cloud services provider manages the services whereas the organization use them . The cloud service provider provides all the hardware's and ensures its working properly(cheaper).companies using public cloud are amazon web services, Microsoft Azure, Google, IBM.
+
+2.on-premises deployment- Only the organization can use private cloud services. Data centre locates inside the organization network. The organization need to have their administrators to manages private cloud services. The organization offers hardware, it buys all physical servers on which the cloud is built and that makes it more expensive. Companies are VMWare, Oracle, Dell ,Cisco.
+
+3.hybrid deployment- The services running on private cloud user can be accessed only by the organization. Anyone can access the services running on cloud based(public cloud). Data Centre Inside the organization for private cloud services and anywhere on the internet for public cloud services. The organization operates the private cloud whereas cloud service providers manage the public  cloud. Expense is intermediate depending on usage of public or private cloud. Companies are Hp, Google, Microsoft, Amazon.
+
+Benefits of Cloud Computing:
+	1. Trade upfront expense for variable expense
+	2. Stop spending money to run and maintain data centre
+	3. Stop Guessing capacity
+	4. Benefit from massive economics of scale
+	5. Increase speed and agility
+	6. Go global in minutes
+
+Tenancy is a feature in cloud deployment models:
+Tenancy: it is virtual partitioning of the resources and all the resources will be kept isolated.
+*Multi tenancy (public Cloud):data of many organization stored in a shared environment. So their data is completely isolated to another organization
+*single tenancy(private cloud): Data of single organization stored in cloud. The private cloud infrastructure is only dedicated to a single customer or organization.
+*Multi tenancy(hybrid Cloud): the data stored in a public cloud is multi-tenant and it is kept secure/ private with help of private cloud
